@@ -10,5 +10,5 @@
 ## Deployment
 
 1. Place the python script inside a folder of .kmz files you wish to convert.
-2. Run the script and see the converted GeoTIFFs get placed in a folder titled "Converted GeoTIFFs.
+2. Run the script via CLI or PowerShell and see the converted GeoTIFFs get placed in a folder titled "Converted GeoTIFFs".
 3. (A conversion log is also created and updated each time the script is run that outputs a list of changes)
